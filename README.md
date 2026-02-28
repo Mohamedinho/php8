@@ -9,7 +9,7 @@ Ce projet est une application Android moderne développée avec **Jetpack Compos
 ### 1. Interface Android
 | Formulaire d'Ajout | Liste des Étudiants |
 | :---: | :---: |
-| ![Ajout](docs/images/1_add_screen.png) | ![Liste](docs/images/2_list_screen.png) |
+| <img width="358" height="795" alt="10" src="https://github.com/user-attachments/assets/c56b448c-e28d-40ed-bc4c-5d584ac51d47" />|  <img width="364" height="797" alt="3" src="https://github.com/user-attachments/assets/884271c7-3712-4598-8bfe-e5d818bc4bef" />|
 
 | Modification d'un Étudiant | Confirmation de Suppression |
 | :---: | :---: |
