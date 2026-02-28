@@ -13,12 +13,12 @@ Ce projet est une application Android moderne développée avec **Jetpack Compos
 
 | Modification d'un Étudiant | Confirmation de Suppression |
 | :---: | :---: |
-| ![Modification](docs/images/3_edit_dialog.png) | ![Suppression](docs/images/4_delete_confirm.png) |
+|  <img width="373" height="788" alt="6" src="https://github.com/user-attachments/assets/0b1a0067-0e73-4501-aad5-0a406a4ca7dc" />| <img width="380" height="804" alt="7" src="https://github.com/user-attachments/assets/6366b8a3-8046-4448-a1b8-be3109dd893e" />|
 
 ### 2. Backend & Base de Données
 | phpMyAdmin (Table etudiant) | Réponse JSON (Web Service) |
 | :---: | :---: |
-| ![Base de données](docs/images/5_database_view.png) | ![JSON](docs/images/6_json_output.png) |
+| <img width="1174" height="528" alt="5" src="https://github.com/user-attachments/assets/60497429-1253-4414-983d-667079824684" />| <img width="1332" height="167" alt="2" src="https://github.com/user-attachments/assets/1bac8a49-ee10-46b7-a88b-2ad6367a185f" />|
 
 ---
 
