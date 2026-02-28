@@ -52,8 +52,12 @@ Ce projet est une application Android moderne développée avec **Jetpack Compos
        PRIMARY KEY (id)
    ) ENGINE=InnoDB;
    ```
+### 2.format JSON Postman:
 
-### 2. Installation du Web Service
+<img width="1169" height="1007" alt="11" src="https://github.com/user-attachments/assets/2e5ce4e4-ef4f-42fd-b350-28018c40c796" />
+
+
+### 3. Installation du Web Service
 - Copier le dossier `projet` dans `C:\xampp\htdocs\`.
 - Structure attendue :
     - `projet/ws/` : Scripts de l'API (create, load, delete, update).
@@ -61,7 +65,7 @@ Ce projet est une application Android moderne développée avec **Jetpack Compos
     - `projet/service/` : Logique métier (EtudiantService).
     - `projet/classes/` : Modèle de données (Etudiant).
 
-### 3. Configuration Android
+### 4. Configuration Android
 - L'URL de base est configurée sur `http://10.0.2.2/projet/ws/` pour l'émulateur.
 - Le fichier `network_security_config.xml` est configuré pour autoriser le trafic HTTP en local.
 
