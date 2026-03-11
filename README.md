@@ -82,4 +82,4 @@ Ce projet est une application Android moderne développée avec **Jetpack Compos
 ---
 
 ## 👨‍💻 Auteur
-Développé par **Anas** dans le cadre de l'apprentissage des Web Services avec Android et PHP 8.
+Développé par **Mohamed DOUASSI** dans le cadre de l'apprentissage des Web Services avec Android et PHP 8.
